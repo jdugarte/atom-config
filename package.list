@@ -2,12 +2,11 @@ afterglow-syntax@1.0.0
 afterglow-ui@1.2.0
 astromac-ui@0.1.0
 atom-ide-ui@0.13.0
-atomic-ui@1.5.2
 elm-format@3.2.0
-go-debug@1.6.2
+go-debug@1.7.0
 go-plus@6.1.0
 go-signature-statusbar@1.2.3
-language-elixir@0.22.1
+language-elixir@0.23.0
 language-elm@1.5.0
 language-slim@1.0.1
 quiet-light-atom@1.5.0
