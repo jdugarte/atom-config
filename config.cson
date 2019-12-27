@@ -1,0 +1,54 @@
+"*":
+  "atom-ide-ui":
+    "atom-ide-code-format":
+      formatOnSave: true
+  core:
+    closeDeletedFileTabs: true
+    telemetryConsent: "no"
+    themes: [
+      "yosemate-ui"
+      "railscast-theme"
+    ]
+  editor:
+    fontSize: 15
+    scrollPastEnd: true
+    showIndentGuide: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "2137d305-8cb2-4dac-8604-d486131ac7f6"
+  "fuzzy-finder":
+    scoringSystem: "fast"
+    useRipGrep: true
+  "git-diff": {}
+  github:
+    filesystemEventDiagnostics: true
+  "go-plus":
+    config:
+      additionalTestArgs: "--bench . --benchmem"
+    test:
+      runTestsWithVerboseFlag: true
+  "grammar-selector":
+    showOnRightSideOfStatusBar: false
+  tabs:
+    tabScrolling: true
+  "unity-ui":
+    colorStatusIndicatorsInTreeView: true
+    showIcons: true
+  welcome:
+    showOnStartup: false
+  "yosemate-ui":
+    colorStatusIndicatorsInTreeView: true
+    showIcons: true
+".erb.html.text":
+  editor:
+    showIndentGuide: false
+    showInvisibles: false
+    tabType: "soft"
+".gemfile.ruby.source":
+  editor:
+    showIndentGuide: false
+    showInvisibles: false
+    tabType: "soft"
+".ruby.source":
+  editor:
+    tabType: "soft"
