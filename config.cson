@@ -3,6 +3,7 @@
     "atom-ide-code-format":
       formatOnSave: true
   core:
+    allowPendingPaneItems: false
     closeDeletedFileTabs: true
     telemetryConsent: "no"
     themes: [
